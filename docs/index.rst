@@ -4,7 +4,7 @@ Website collecting cooking recipe
 This page aggregates all my personal cooking recipes classified by types.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
 
    Meat <meat/meat>
