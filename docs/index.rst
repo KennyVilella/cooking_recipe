@@ -7,7 +7,7 @@ This page aggregates all my personal cooking recipes classified by types.
    :maxdepth: 1
    :hidden:
 
-   Meat <meat>
-   Vegetables <vegetables>
-   Pasta <pasta>
-   Dessert <dessert>
+   Meat <meat/meat>
+   Vegetables <vegetables/vegetables>
+   Pasta <pasta/pasta>
+   Dessert <dessert/dessert>
