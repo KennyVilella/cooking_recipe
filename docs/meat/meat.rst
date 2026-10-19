@@ -9,3 +9,4 @@ placeholder
 
    Ricotta meatball <ricotta_meatball>
    Korean style marinated meat <korean_meat>
+   Chicken Basquaise <chicken_basquaise>
