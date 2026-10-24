@@ -3,4 +3,5 @@
 List of vegetables recipes
 ==========================
 
-placeholder
+This page aggregates recipes of vegetable dish.
+

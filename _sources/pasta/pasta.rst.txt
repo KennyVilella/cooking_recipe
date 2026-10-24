@@ -3,4 +3,5 @@
 List of pasta recipes
 =====================
 
-placeholder
+This page aggregates recipes of pasta dish.
+

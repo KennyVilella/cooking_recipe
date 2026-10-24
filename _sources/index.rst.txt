@@ -5,7 +5,7 @@ This page aggregates all my personal cooking recipes classified by types.
 
 .. toctree::
    :hidden:
-   :maxdepth: 2
+   :maxdepth: 1
 
    Meat <meat/meat>
    Vegetables <vegetables/vegetables>

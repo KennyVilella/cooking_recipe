@@ -3,9 +3,10 @@
 List of meat recipes
 ====================
 
-placeholder
+This page aggregates recipes of meat dish.
 
 .. toctree::
+   :maxdepth: 1
 
    Ricotta meatball <ricotta_meatball>
    Korean style marinated meat <korean_meat>
