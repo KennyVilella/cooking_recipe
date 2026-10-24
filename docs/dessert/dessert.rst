@@ -8,3 +8,4 @@ This page aggregates dessert recipes.
 .. toctree::
 
    Pancake <pancake>
+   Tiramisu <tiramisu>
