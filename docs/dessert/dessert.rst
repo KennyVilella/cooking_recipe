@@ -4,3 +4,7 @@ List of dessert recipes
 =======================
 
 placeholder
+
+.. toctree::
+
+   Pancake <pancake>
