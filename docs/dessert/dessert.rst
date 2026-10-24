@@ -3,7 +3,7 @@
 List of dessert recipes
 =======================
 
-placeholder
+This page aggregates dessert recipes.
 
 .. toctree::
 
